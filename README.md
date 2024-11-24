@@ -23,7 +23,7 @@ The Fitness Tools Application is a Java-based desktop application designed to as
 
 ## Video :
 
-<video src="https://github.com/DhirajGadekar/Java-Programming/assets/111908836/a8ff69ad-e27d-493e-9ef5-c0771913033f" control auotplay> <video>
+<video src="https://github.com/Vivekingale7/J_PRoject/blob/main/278893484-a8ff69ad-e27d-493e-9ef5-c0771913033f.mp4" control auotplay> <video>
 
 ## Usage :
 
