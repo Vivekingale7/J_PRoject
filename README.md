@@ -41,7 +41,7 @@ The Fitness Tools Application is a Java-based desktop application designed to as
 ## Contributor :
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Vivekingale7"><img src="https://avatars.githubusercontent.com/u/111908836?v=4" width="100px;" alt="Vivek Ingale"/><br/><sub><b>Vivek Ingale</b></sub></a><br/>
+    <td align="center"><a href="https://github.com/Vivekingale7"><img src="https://github.com/Vivekingale7/Vivekingale7/blob/main/03.jpg" width="100px;" alt="Vivek Ingale"/><br/><sub><b>Vivek Ingale</b></sub></a><br/>
 </tr>
 </table>
 
